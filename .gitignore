@@ -7,6 +7,8 @@ helix-importer-ui
 .DS_Store
 *.bak
 .idea
+.env
+migration-work/
 
 # Ensure these files are tracked
 !CLAUDE.md

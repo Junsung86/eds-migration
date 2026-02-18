@@ -1,3 +1,4 @@
+/* global WebImporter */
 /**
  * Columns Block Parser
  * Converts product showcase items from LG article pages into AEM Columns blocks.

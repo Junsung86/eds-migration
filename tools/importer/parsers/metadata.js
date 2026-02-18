@@ -1,3 +1,4 @@
+/* global WebImporter */
 /**
  * Metadata Block Parser
  * Extracts page metadata from HTML head meta tags and page content

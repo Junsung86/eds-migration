@@ -1,3 +1,4 @@
+/* global WebImporter */
 /**
  * Table Block Parser
  * Converts HTML comparison tables from LG article pages into AEM Table blocks.
